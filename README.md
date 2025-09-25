@@ -23,8 +23,8 @@ MainNet sürümünde komutlar ve yapılandırmalar değişebilir.
 Kuruluma başlamadan önce aşağıdakileri tamamlayın:
 
 - MetaMask cüzdanınızı açın ve **TestNet ağına geçin**
-- [https://hub.testnet.mawari.net](https://hub.testnet.mawari.net) adresinden test token alın
-- [https://testnet.mawari.net](https://testnet.mawari.net) adresinden **3 adet Guardian NFT** mint edin
+- https://hub.testnet.mawari.net adresinden test token alın
+- https://testnet.mawari.net adresinden **3 adet Guardian NFT** mint edin
 
 ---
 
