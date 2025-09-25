@@ -4,7 +4,7 @@
 Bu rehber, **Mawari Network TestNet** üzerinde **Guardian Node** kurmak isteyenler için adım adım hazırlanmıştır.  
 MainNet sürümünde komutlar ve yapılandırmalar değişebilir.
 
----
+````
 
 ## 📦 Gereksinimler
 
@@ -16,7 +16,7 @@ MainNet sürümünde komutlar ve yapılandırmalar değişebilir.
 | 📂 Disk | 20 GB SSD |
 | 🔐 Cüzdan | MetaMask |
 
----
+````
 
 ## 🪙 1. Test Token ve Guardian NFT Alma
 
@@ -26,7 +26,7 @@ Kuruluma başlamadan önce aşağıdakileri tamamlayın:
 - https://hub.testnet.mawari.net adresinden test token alın
 - https://testnet.mawari.net adresinden **3 adet Guardian NFT** mint edin
 
----
+````
 
 ## 🔌 2. Sunucuya Bağlanma
 
